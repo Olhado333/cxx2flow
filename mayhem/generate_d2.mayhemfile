@@ -1,0 +1,5 @@
+project: cxx2flow
+target: generate_d2
+duration: 600
+cmds:
+    - cmd: /fuzzers/fuzz_generate_d2
